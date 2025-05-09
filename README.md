@@ -1,4 +1,4 @@
-# Blockchain Heroes
+# Blockchain Hero
 
 A gamified blockchain learning platform that helps users explore the world of Web3 through interactive quests, achievements, and a competitive leaderboard.
 
